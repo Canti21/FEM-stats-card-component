@@ -39,8 +39,8 @@ The target designs are in the [designs folder](./design/).
 
 ### 🔗 Links
 
-- Solution URL: [FrontEnd Mentor]()
-- Live Site URL: [Deploy]()
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-ncuBoydKog)
+- Live Site URL: [Deploy](https://canti21.github.io/FEM-stats-card-component/)
 
 ## 💭 My process
 
