@@ -186,7 +186,7 @@ footer
         grid-template-rows: 1fr;
         grid-template-columns: 51% 49%;
         grid-template-areas: "info img";
-        max-width: 77vw;
+        max-width: 110rem;
         text-align: left;
     }
 
